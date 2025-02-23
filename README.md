@@ -1,2 +1,1 @@
-# vibe-paper
-v i b e - p a p e r
+probably a monorepe too lazy to make more repos frfr
